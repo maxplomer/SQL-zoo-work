@@ -1,0 +1,11 @@
+SQL GROUP BY Statement
+http://www.w3schools.com/sql/sql_groupby.asp
+
+Using SUM, Count, MAX, DISTINCT and ORDER BY
+http://sqlzoo.net/wiki/Using_SUM,_Count,_MAX,_DISTINCT_and_ORDER_BY
+
+w3d1 - sql curriculum
+https://github.com/appacademy/sql-curriculum#w3d1
+
+SQL Query - SUM(CASE WHEN
+http://stackoverflow.com/questions/17811673/sql-query-sumcase-when-x-then-1-else-0-for-multiple-columns
